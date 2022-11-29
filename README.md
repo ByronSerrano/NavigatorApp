@@ -21,4 +21,5 @@ Cuando le damos click nos aparecera una nueva ventana en donde saldra informacio
 4. Paso:
 Cuando ingresamos en esa ventana, nos mostrará una lista de canciones, las cuales nos msotrara una foto de la cancion, el cantante, el nombre de la cancion y su duración
    
-   ![image](https://user-images.githubusercontent.com/115562510/204442960-7db71d2b-c3f9-466f-b386-6b22bf5a05ce.png)
+   ![image](https://user-images.githubusercontent.com/115562510/204443082-f1c94024-7c36-4536-9181-b5014cc1b4c4.png)
+
